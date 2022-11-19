@@ -10,7 +10,7 @@ main:
   - name: Steering Committee
     url: "#steering"
     weight: 20
-  - name: Diveristy and Inclusion
+  - name: Diversity and Inclusion
     url: diversity
     weight: 30
   - name: Nominations
